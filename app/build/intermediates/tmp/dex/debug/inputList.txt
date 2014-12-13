@@ -1,0 +1,5 @@
+D:\Android Studio Projects\AppointMaps\app\build\intermediates\classes\debug
+D:\Android Studio Projects\AppointMaps\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-d578dcb8b94ea7ef6171f630c31d61ae663f71f5.jar
+D:\Android Studio Projects\AppointMaps\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-12deb5c8919109f9fead23e5ec2c530416d8edcc.jar
+D:\Android Studio Projects\AppointMaps\app\build\intermediates\pre-dexed\debug\classes-8a9dcb3b25c6955127464191072c8c7808e3c8fa.jar
+D:\Android Studio Projects\AppointMaps\app\build\intermediates\pre-dexed\debug\classes-c6889aa59704edde87a2d835a7473d073560a6b9.jar
