@@ -1,4 +1,4 @@
-AppointMaps
+AppointMaps (Android app)
 ===========
 
 A calendar based on Map.
